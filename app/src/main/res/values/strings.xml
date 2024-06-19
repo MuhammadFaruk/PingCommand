@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name"> > Ping </string>
+
+    <string name="resulttext">Ping Result will be shown here</string>
+    <string name="start_ping">Start Ping</string>
+    <string name="stop_ping">Stop Ping</string>
+    <string name="enter_ip_address_or_domain">Enter IP address or domain</string>
+    <string name="info_msg">Ping For Google Example IP: 8.8.8.8 or Domain: google.com &amp; Click To Ping Button for Start Pinging, Please enter a valid IP Address or Domain Name</string>
+
+
+</resources>
